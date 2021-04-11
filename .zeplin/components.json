@@ -1,0 +1,33 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-react-plugin",
+            "config": {
+                "tsDocgen": "react-docgen-typescript"
+            }
+        }
+    ],
+    "projects": [],
+    "styleguides": [
+        "6072b7089ae96d4011468eb4"
+    ],
+    "components": [
+        {
+            "path": "src/stories/Button.js",
+            "zeplinIds": [
+                "6072c070c5c45d4f61a3fbcc",
+                "6072c070f1e62fa23ddfaeff",
+                "6072c06f5bedcb538d9f9fe2",
+                "6072c06f40ced4520add6a26",
+                "6072c06fbfadf73eb6b19e20",
+                "6072c0704a24ed3d5c3a41e5",
+                "6072c07011c08752e246845d",
+                "6072c06fffa78b51896fea67",
+                "6072c10bd236313df4082d4c",
+                "6072c10b33138154d60adc48",
+                "6072c10c183322506aff3e55",
+                "6072c10c991137523a577339"
+            ]
+        }
+    ]
+}
